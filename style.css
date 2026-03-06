@@ -1,0 +1,50 @@
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background:rgba(255, 255, 255, 0);
+    padding: 15px 0;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+* { 
+    margin: 0;
+    padding: 0;
+    color: darkred;
+    
+}
+
+h1{
+    
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+    background:linear-gradient(to top rgba(255, 255, 255, 0.517) rgb(255, 255, 255) )
+}
+
+link {
+    
+    justify-content: center;
+}
+.container{
+    padding top: 5;
+    margin top : 5
+    pisition : relative
+    
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: 5;
+}
